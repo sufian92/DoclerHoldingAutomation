@@ -28,7 +28,6 @@ namespace DoclerHoldingAutomation.PageObjects
         {
             WebDriverWait wait = new WebDriverWait(this.driver, TimeSpan.FromSeconds(20));
             wait.Until(ExpectedConditions.ElementIsVisible(By.Id("dh_logo")));
-
         }
 
         public bool IsCompanyLogoPresent()

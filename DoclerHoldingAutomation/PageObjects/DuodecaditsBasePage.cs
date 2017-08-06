@@ -26,7 +26,6 @@ namespace DoclerHoldingAutomation.PageObjects
         public DuodecaditsBasePage(IWebDriver browser)
         {
             this.driver = browser;
-           
         }
 
         public void Navigate()
@@ -91,7 +90,6 @@ namespace DoclerHoldingAutomation.PageObjects
                 return false;
             }
         }
-
 
     }
 }

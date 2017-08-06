@@ -65,12 +65,10 @@ namespace DoclerHoldingAutomation
         }
         
         [NUnit.Framework.TestAttribute()]
-        [NUnit.Framework.DescriptionAttribute("The title of every page in the application is \"UI Testing Site\"")]
-        [NUnit.Framework.CategoryAttribute("mytag")]
-        public virtual void TheTitleOfEveryPageInTheApplicationIsUITestingSite()
+        [NUnit.Framework.DescriptionAttribute("07 The title of every page in the application is \"UI Testing Site\"")]
+        public virtual void _07TheTitleOfEveryPageInTheApplicationIsUITestingSite()
         {
-            TechTalk.SpecFlow.ScenarioInfo scenarioInfo = new TechTalk.SpecFlow.ScenarioInfo("The title of every page in the application is \"UI Testing Site\"", new string[] {
-                        "mytag"});
+            TechTalk.SpecFlow.ScenarioInfo scenarioInfo = new TechTalk.SpecFlow.ScenarioInfo("07 The title of every page in the application is \"UI Testing Site\"", ((string[])(null)));
 #line 7
 this.ScenarioSetup(scenarioInfo);
 #line 8
@@ -84,12 +82,10 @@ this.ScenarioSetup(scenarioInfo);
         }
         
         [NUnit.Framework.TestAttribute()]
-        [NUnit.Framework.DescriptionAttribute("The Company logo is present  in each page")]
-        [NUnit.Framework.CategoryAttribute("mytag")]
-        public virtual void TheCompanyLogoIsPresentInEachPage()
+        [NUnit.Framework.DescriptionAttribute("08 The Company logo is present  in each page")]
+        public virtual void _08TheCompanyLogoIsPresentInEachPage()
         {
-            TechTalk.SpecFlow.ScenarioInfo scenarioInfo = new TechTalk.SpecFlow.ScenarioInfo("The Company logo is present  in each page", new string[] {
-                        "mytag"});
+            TechTalk.SpecFlow.ScenarioInfo scenarioInfo = new TechTalk.SpecFlow.ScenarioInfo("08 The Company logo is present  in each page", ((string[])(null)));
 #line 13
 this.ScenarioSetup(scenarioInfo);
 #line 14
@@ -103,12 +99,10 @@ this.ScenarioSetup(scenarioInfo);
         }
         
         [NUnit.Framework.TestAttribute()]
-        [NUnit.Framework.DescriptionAttribute("Clicking the home button redirects to the home page")]
-        [NUnit.Framework.CategoryAttribute("mytag")]
-        public virtual void ClickingTheHomeButtonRedirectsToTheHomePage()
+        [NUnit.Framework.DescriptionAttribute("01 Clicking the home button redirects to the home page")]
+        public virtual void _01ClickingTheHomeButtonRedirectsToTheHomePage()
         {
-            TechTalk.SpecFlow.ScenarioInfo scenarioInfo = new TechTalk.SpecFlow.ScenarioInfo("Clicking the home button redirects to the home page", new string[] {
-                        "mytag"});
+            TechTalk.SpecFlow.ScenarioInfo scenarioInfo = new TechTalk.SpecFlow.ScenarioInfo("01 Clicking the home button redirects to the home page", ((string[])(null)));
 #line 19
 this.ScenarioSetup(scenarioInfo);
 #line 20
@@ -122,12 +116,10 @@ this.ScenarioSetup(scenarioInfo);
         }
         
         [NUnit.Framework.TestAttribute()]
-        [NUnit.Framework.DescriptionAttribute("Clicking the home button turns the home button active")]
-        [NUnit.Framework.CategoryAttribute("mytag")]
-        public virtual void ClickingTheHomeButtonTurnsTheHomeButtonActive()
+        [NUnit.Framework.DescriptionAttribute("09 Clicking the home button turns the home button active")]
+        public virtual void _09ClickingTheHomeButtonTurnsTheHomeButtonActive()
         {
-            TechTalk.SpecFlow.ScenarioInfo scenarioInfo = new TechTalk.SpecFlow.ScenarioInfo("Clicking the home button turns the home button active", new string[] {
-                        "mytag"});
+            TechTalk.SpecFlow.ScenarioInfo scenarioInfo = new TechTalk.SpecFlow.ScenarioInfo("09 Clicking the home button turns the home button active", ((string[])(null)));
 #line 25
 this.ScenarioSetup(scenarioInfo);
 #line 26
@@ -141,12 +133,10 @@ this.ScenarioSetup(scenarioInfo);
         }
         
         [NUnit.Framework.TestAttribute()]
-        [NUnit.Framework.DescriptionAttribute("Clicking the form button redirects to the form page")]
-        [NUnit.Framework.CategoryAttribute("mytag")]
-        public virtual void ClickingTheFormButtonRedirectsToTheFormPage()
+        [NUnit.Framework.DescriptionAttribute("02 Clicking the form button redirects to the form page")]
+        public virtual void _02ClickingTheFormButtonRedirectsToTheFormPage()
         {
-            TechTalk.SpecFlow.ScenarioInfo scenarioInfo = new TechTalk.SpecFlow.ScenarioInfo("Clicking the form button redirects to the form page", new string[] {
-                        "mytag"});
+            TechTalk.SpecFlow.ScenarioInfo scenarioInfo = new TechTalk.SpecFlow.ScenarioInfo("02 Clicking the form button redirects to the form page", ((string[])(null)));
 #line 31
 this.ScenarioSetup(scenarioInfo);
 #line 32
@@ -160,12 +150,10 @@ this.ScenarioSetup(scenarioInfo);
         }
         
         [NUnit.Framework.TestAttribute()]
-        [NUnit.Framework.DescriptionAttribute("Clicking the form button turns the form button active")]
-        [NUnit.Framework.CategoryAttribute("mytag")]
-        public virtual void ClickingTheFormButtonTurnsTheFormButtonActive()
+        [NUnit.Framework.DescriptionAttribute("10 Clicking the form button turns the form button active")]
+        public virtual void _10ClickingTheFormButtonTurnsTheFormButtonActive()
         {
-            TechTalk.SpecFlow.ScenarioInfo scenarioInfo = new TechTalk.SpecFlow.ScenarioInfo("Clicking the form button turns the form button active", new string[] {
-                        "mytag"});
+            TechTalk.SpecFlow.ScenarioInfo scenarioInfo = new TechTalk.SpecFlow.ScenarioInfo("10 Clicking the form button turns the form button active", ((string[])(null)));
 #line 37
 this.ScenarioSetup(scenarioInfo);
 #line 38
@@ -179,12 +167,10 @@ this.ScenarioSetup(scenarioInfo);
         }
         
         [NUnit.Framework.TestAttribute()]
-        [NUnit.Framework.DescriptionAttribute("Clicking the error button gives an 404 HTTP response code")]
-        [NUnit.Framework.CategoryAttribute("mytag")]
-        public virtual void ClickingTheErrorButtonGivesAn404HTTPResponseCode()
+        [NUnit.Framework.DescriptionAttribute("03 Clicking the error button gives an 404 HTTP response code")]
+        public virtual void _03ClickingTheErrorButtonGivesAn404HTTPResponseCode()
         {
-            TechTalk.SpecFlow.ScenarioInfo scenarioInfo = new TechTalk.SpecFlow.ScenarioInfo("Clicking the error button gives an 404 HTTP response code", new string[] {
-                        "mytag"});
+            TechTalk.SpecFlow.ScenarioInfo scenarioInfo = new TechTalk.SpecFlow.ScenarioInfo("03 Clicking the error button gives an 404 HTTP response code", ((string[])(null)));
 #line 43
 this.ScenarioSetup(scenarioInfo);
 #line 44
@@ -198,12 +184,10 @@ this.ScenarioSetup(scenarioInfo);
         }
         
         [NUnit.Framework.TestAttribute()]
-        [NUnit.Framework.DescriptionAttribute("Clicking the UI Testong button redirects to the home page")]
-        [NUnit.Framework.CategoryAttribute("mytag")]
-        public virtual void ClickingTheUITestongButtonRedirectsToTheHomePage()
+        [NUnit.Framework.DescriptionAttribute("04 Clicking the UI Testong button redirects to the home page")]
+        public virtual void _04ClickingTheUITestongButtonRedirectsToTheHomePage()
         {
-            TechTalk.SpecFlow.ScenarioInfo scenarioInfo = new TechTalk.SpecFlow.ScenarioInfo("Clicking the UI Testong button redirects to the home page", new string[] {
-                        "mytag"});
+            TechTalk.SpecFlow.ScenarioInfo scenarioInfo = new TechTalk.SpecFlow.ScenarioInfo("04 Clicking the UI Testong button redirects to the home page", ((string[])(null)));
 #line 49
 this.ScenarioSetup(scenarioInfo);
 #line 50
@@ -217,12 +201,10 @@ this.ScenarioSetup(scenarioInfo);
         }
         
         [NUnit.Framework.TestAttribute()]
-        [NUnit.Framework.DescriptionAttribute("The header of the Home Page should be Correct")]
-        [NUnit.Framework.CategoryAttribute("mytag")]
-        public virtual void TheHeaderOfTheHomePageShouldBeCorrect()
+        [NUnit.Framework.DescriptionAttribute("11 The header of the Home Page should be Correct")]
+        public virtual void _11TheHeaderOfTheHomePageShouldBeCorrect()
         {
-            TechTalk.SpecFlow.ScenarioInfo scenarioInfo = new TechTalk.SpecFlow.ScenarioInfo("The header of the Home Page should be Correct", new string[] {
-                        "mytag"});
+            TechTalk.SpecFlow.ScenarioInfo scenarioInfo = new TechTalk.SpecFlow.ScenarioInfo("11 The header of the Home Page should be Correct", ((string[])(null)));
 #line 55
 this.ScenarioSetup(scenarioInfo);
 #line 56
@@ -236,12 +218,10 @@ this.ScenarioSetup(scenarioInfo);
         }
         
         [NUnit.Framework.TestAttribute()]
-        [NUnit.Framework.DescriptionAttribute("The content message of the Home Page should be Correct")]
-        [NUnit.Framework.CategoryAttribute("mytag")]
-        public virtual void TheContentMessageOfTheHomePageShouldBeCorrect()
+        [NUnit.Framework.DescriptionAttribute("12 The content message of the Home Page should be Correct")]
+        public virtual void _12TheContentMessageOfTheHomePageShouldBeCorrect()
         {
-            TechTalk.SpecFlow.ScenarioInfo scenarioInfo = new TechTalk.SpecFlow.ScenarioInfo("The content message of the Home Page should be Correct", new string[] {
-                        "mytag"});
+            TechTalk.SpecFlow.ScenarioInfo scenarioInfo = new TechTalk.SpecFlow.ScenarioInfo("12 The content message of the Home Page should be Correct", ((string[])(null)));
 #line 61
 this.ScenarioSetup(scenarioInfo);
 #line 62
@@ -256,12 +236,10 @@ this.ScenarioSetup(scenarioInfo);
         }
         
         [NUnit.Framework.TestAttribute()]
-        [NUnit.Framework.DescriptionAttribute("Form page contains one input box and one submit button")]
-        [NUnit.Framework.CategoryAttribute("mytag")]
-        public virtual void FormPageContainsOneInputBoxAndOneSubmitButton()
+        [NUnit.Framework.DescriptionAttribute("05 Form page contains one input box and one submit button")]
+        public virtual void _05FormPageContainsOneInputBoxAndOneSubmitButton()
         {
-            TechTalk.SpecFlow.ScenarioInfo scenarioInfo = new TechTalk.SpecFlow.ScenarioInfo("Form page contains one input box and one submit button", new string[] {
-                        "mytag"});
+            TechTalk.SpecFlow.ScenarioInfo scenarioInfo = new TechTalk.SpecFlow.ScenarioInfo("05 Form page contains one input box and one submit button", ((string[])(null)));
 #line 67
 this.ScenarioSetup(scenarioInfo);
 #line 68
@@ -275,14 +253,12 @@ this.ScenarioSetup(scenarioInfo);
         }
         
         [NUnit.Framework.TestAttribute()]
-        [NUnit.Framework.DescriptionAttribute("Submiting the form in the form page redirects to the hello page which shows the c" +
-            "orrect output")]
-        [NUnit.Framework.CategoryAttribute("mytag")]
-        public virtual void SubmitingTheFormInTheFormPageRedirectsToTheHelloPageWhichShowsTheCorrectOutput()
+        [NUnit.Framework.DescriptionAttribute("06 Submiting the form in the form page redirects to the hello page which shows th" +
+            "e correct output")]
+        public virtual void _06SubmitingTheFormInTheFormPageRedirectsToTheHelloPageWhichShowsTheCorrectOutput()
         {
-            TechTalk.SpecFlow.ScenarioInfo scenarioInfo = new TechTalk.SpecFlow.ScenarioInfo("Submiting the form in the form page redirects to the hello page which shows the c" +
-                    "orrect output", new string[] {
-                        "mytag"});
+            TechTalk.SpecFlow.ScenarioInfo scenarioInfo = new TechTalk.SpecFlow.ScenarioInfo("06 Submiting the form in the form page redirects to the hello page which shows th" +
+                    "e correct output", ((string[])(null)));
 #line 73
 this.ScenarioSetup(scenarioInfo);
 #line 74
