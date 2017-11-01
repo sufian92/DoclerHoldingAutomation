@@ -8,6 +8,7 @@ namespace DoclerHoldingAutomation
         {
             try
             {
+                //test comment
                 Driver.FindElement(by);
                 return true;
             }
